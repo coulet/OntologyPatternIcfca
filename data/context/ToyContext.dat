@@ -1,0 +1,6 @@
+raw ID	Disease or Syndrome	Bacterium	Molecular Function	Chemical
+drug1	{Tuberculosis;Bacterial_Infection}	{}	{Protein_Synthesis}	{Antibiotic;Antifungal_Agent}
+drug2	{Bacterial_Infection}	{}	{Protein_Synthesis}	{}
+drug3	{Tuberculosis;Bacterial_Infection}	{}	{}	{Anti-Infective_Agent}
+DB01082	{Tuberculosis}	{}	{Protein_Synthesis}	{Streptomycin}
+drug5	{Tuberculosis;Bacterial_Infection}	{}	{}	{Antibiotic;Antifungal_Agent}
